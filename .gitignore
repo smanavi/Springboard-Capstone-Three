@@ -29,4 +29,8 @@ Data/*
 saved_model/*
 run_history/*
 logs/*
+final_data_and_model/*
+hyperparam_tuning_notebooks/*
+old_notebooks/*
+presentation.pptx
 
