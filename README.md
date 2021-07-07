@@ -1,4 +1,4 @@
-Capstone Three: Building a Movie Recommendation System Using the MUBI Database
+Capstone Three: Using a Deep Neural Network to Build a Movie Recommendation System
 ==============================
 The third capstone project for Springboard's Data Science track.
 
@@ -20,8 +20,18 @@ I built a deep feed-forward neural network as part of an educational project to 
 
 Acknowledgements
 -----------------
-While the research for this project spanned multitudes, there was one particular post that was pivotal in my understanding and implementation of a DNN for a recommender system: Rising Odegua's Hearbeat post, found here: https://heartbeat.fritz.ai/build-train-and-deploy-a-book-recommender-system-using-keras-tensorflow-js-b96944b936a7
+While the research for this project spanned multitudes, there was one particular post that was pivotal in my understanding and implementation of a DNN for a recommender system: Rising Odegua's Heartbeat post, found here: https://heartbeat.fritz.ai/build-train-and-deploy-a-book-recommender-system-using-keras-tensorflow-js-b96944b936a7
 
-I am also very grateful for Tensorflow's extensive documentation and tutorials -- they were priceless for this project.
+I am also very grateful for Tensorflow's extensive documentation and tutorials.
 
 Finally, my warmest, deepest gratitude goes to Travis Hall, who lent me the use of the many, many CPUs I needed via a virtual machine. This literally would not have been possible without his assistance.
+
+Interact With the Project!
+-----------------
+The "Interactive Example" folder is meant to display the types of recommendations the system can generate. It uses a pre-generated to avoid complications around downloading and running the model itself (though everything needed to do that is present on this repository).
+
+To see one set of results, simply open the Explore Model Results.ipynb notebook in GitHub and you will see a pre-run example.
+
+You can also download the contents of the entire Interactive Example folder to your local machine to play with examples yourself. The notebook guides you through the databases and libraries you need (not many) to make it run.
+
+This was an educational project with limited time and resource investment possible. However, if it inspires you, please feel free to fork the repo and make your own additions and changes. 
