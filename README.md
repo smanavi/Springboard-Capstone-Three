@@ -28,10 +28,10 @@ Finally, my warmest, deepest gratitude goes to Travis Hall, who lent me the use 
 
 Interact With the Project!
 -----------------
-The "Interactive Example" folder is meant to display the types of recommendations the system can generate. It uses a pre-generated to avoid complications around downloading and running the model itself (though everything needed to do that is present on this repository).
+The "Interactive Example" folder is meant to display the types of recommendations the system can generate. It uses a pre-generated recommendation dataset to avoid complications around downloading and running the model itself (though everything needed to run the model is present on this repository, should you wish to do so).
 
-To see one set of results, simply open the Explore Model Results.ipynb notebook in GitHub and you will see a pre-run example.
+To see one set of results, simply open the "Explore Model Results.ipynb" notebook in GitHub and you will see a pre-run example.
 
 You can also download the contents of the entire Interactive Example folder to your local machine to play with examples yourself. The notebook guides you through the databases and libraries you need (not many) to make it run.
 
-This was an educational project with limited time and resource investment possible. However, if it inspires you, please feel free to fork the repo and make your own additions and changes. 
+This was an educational project with limited time and resource investment possible. However, if it inspires you, please feel free to fork the repo and make your own additions and changes.
